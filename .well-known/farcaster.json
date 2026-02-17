@@ -11,34 +11,34 @@
   "subtitle": "Tap to earn pata", 
   "description": "Tap Bandor to earn pata and it's a funny game",
 
-  "iconUrl": "https://tapgorila3.vercel.app/assets/icon.png",
-  "imageUrl": "https://tapgorila3.vercel.app/assets/embed-3x2.png",
-  "homeUrl": "https://tapgorila3.vercel.app/",
+  "iconUrl": "https://tapquest-arena.vercel.app/assets/icon.png",
+  "imageUrl": "https://tapquest-arena.vercel.app/assets/embed-3x2.png",
+  "homeUrl": "https://tapquest-arena.vercel.app/",
   "canonicalDomain": "tapgorila3.vercel.app",
 
-  "splashImageUrl": "https://tapgorila3.vercel.app/assets/splash-200.png",
+  "splashImageUrl": "https://tapquest-arena.vercel.app/assets/splash-200.png",
   "splashBackgroundColor": "#000000",
   "primaryCategory": "games",
 
   "tags": ["game", "tap", "base", "miniapp"],
 
   "screenshotUrls": [
-    "https://tapgorila3.vercel.app/assets/screenshots/1.png",
-    "https://tapgorila3.vercel.app/assets/screenshots/2.png",
-    "https://tapgorila3.vercel.app/assets/screenshots/3.png"
+    "https://tapquest-arena.vercel.app/assets/screenshots/1.png",
+    "https://tapquest-arena.vercel.app/assets/screenshots/2.png",
+    "https://tapquest-arena.vercel.app/assets/screenshots/3.png"
   ],
 
-  "heroImageUrl": "https://tapgorila3.vercel.app/assets/hero-1200x630.png",
+  "heroImageUrl": "https://tapquest-arena.vercel.app/assets/hero-1200x630.png",
 
   "tagline": "Tap. Earn. Fun.",
 
   "ogTitle": "Bandor Tapper",
   "ogDescription": "Tap Bandor, earn pata, and climb the leaderboard!",
-  "ogImageUrl": "https://tapgorila3.vercel.app/assets/og-1200x630.png",
+  "ogImageUrl": "https://tapquest-arena.vercel.app/assets/og-1200x630.png",
 
   "noindex": false,
 
-  "webhookUrl": "https://tapgorila3.vercel.app/api/webhook",
+  "webhookUrl": "https://tapquest-arena.vercel.app/api/webhook",
 
   "requiredChains": ["eip155:8453"],
   "requiredCapabilities": ["actions.ready"]
